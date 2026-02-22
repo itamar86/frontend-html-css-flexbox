@@ -1,0 +1,84 @@
+.navbar-one ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+
+.navbar-two ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+
+.navbar-three {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-three .right ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+
+}
+.navbar-three .left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1em;
+}
+
+
+.navbar-four {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-four .logo-nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2em;
+}
+.navbar-four .logo {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+.navbar-four .nav ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 3em;
+}
+.navbar-four .sign-log ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 1em;
+}
+
+
+.navbar-five {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-five div {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+.navbar-five .nav ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 3em;
+}
+.navbar-five .sign-log ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 1em;
+}
